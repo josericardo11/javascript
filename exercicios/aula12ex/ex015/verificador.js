@@ -1,10 +1,10 @@
-function calcIdade() {
+/*function calcIdade() {
     var nas = Number(document.getElementById('iidade').value)
     var anoatual = new Date().getFullYear()
     var idade = anoatual - nas
     var ou = document.getElementById('ival')
     ou.value = `Sua idade é: ${idade}`
-}
+}*/
 
 function clicou() {
     var nas = Number(window.document.getElementById('iidade').value)
