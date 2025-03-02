@@ -19,12 +19,14 @@ section{
     margin: auto;
     background-color: white;
     width: 60vw;
-    height: 60vh;
     border-radius: 10px;
     box-shadow: 1px 1px 4px black;
     border: 1px solid black;
 }
 
+section > div {
+    margin: 10px;
+}
 
 footer {
     text-align: center;
